@@ -1,7 +1,8 @@
 #  :loudspeaker: About Me:
   :dizzy_face: Desenvolvimento de Sistemas<br> 
 
-![Rick and Morty_Gif]([[https://media.tenor.com/AIOysiPM3IAAAAAC/twice-scientist.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F622833823485363400%2F&psig=AOvVaw2tQVh8-nGJVBMZk1T-heDN&ust=1706273611569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi3y9XK-IMDFQAAAAAdAAAAABAD)](https://i.imgur.com/LqMPK9S.gif))
+![Rick and Morty_Gif](![Uploading rickAndMorty.gif…]()
+)
 
 # :bangbang: GitHub Stats:
 <a href="https://github.com/luaa27">
