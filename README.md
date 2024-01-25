@@ -1,7 +1,7 @@
 #  :loudspeaker: About Me:
   :dizzy_face: Desenvolvimento de Sistemas<br> 
 
-![Rick and Morty_Gif](!(https://i.pinimg.com/originals/6e/39/6a/6e396ac75293f741be7b7855ba4968e5.gif)()
+![Rick and Morty_Gif]((https://i.pinimg.com/originals/6e/39/6a/6e396ac75293f741be7b7855ba4968e5.gif)
 )
 
 # :bangbang: GitHub Stats:
